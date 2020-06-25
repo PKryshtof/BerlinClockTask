@@ -50,6 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BDD\BerlinClockFeatureSteps.cs" />
+    <Compile Include="Classes\CustomBerlinClock.cs" />
+    <Compile Include="Classes\Bulp.cs" />
+    <Compile Include="Classes\BulpColors.cs" />
+    <Compile Include="Classes\TimeRow.cs" />
+    <Compile Include="Classes\TimeRowBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BDD\BerlinClockFeatureSteps.feature.cs">
       <AutoGen>True</AutoGen>
